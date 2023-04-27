@@ -1,5 +1,6 @@
 # WebSudoku
 Link: https://web-sudoku-z-2.vercel.app/
+
 A website where a user can play a new random unique Sudoku.
 
 User authentication is implemented using Passport.js authentication middleware.
